@@ -43,3 +43,24 @@ This demo app uses a **RandomForestClassifier** trained on just **6 key features
    ```bash
    git clone https://github.com/joyreuben/Breast-Cancer-Project.git
    cd breast-cancer-lightweight-demo
+2. pip install -r requirements.txt
+3. streamlit run app.py
+
+🖼️ Future Upgrade (Image Classification)
+The current version is numerical-feature-based. In the next phase, this project will be extended to:
+
+Accept histopathology images of breast tissue.
+
+Use Convolutional Neural Networks (CNNs) for training.
+
+Predict cancer presence directly from images.
+
+Stay tuned!
+
+🧠 Model Performance (Optional)
+You can add basic model accuracy or cross-validation metrics here if needed.
+
+🙋🏽‍♀️ Author
+Joy Amarachi Okebugwu
+Biochemist | Aspiring Bioinformatician & Data Scientist
+
